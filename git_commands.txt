@@ -25,7 +25,7 @@ for configurations we use:-
 2)  git config --global user.email "your@email.com"
 
 
-hiii
+hello
 
 
 
