@@ -13,9 +13,14 @@ git status
 
 to check the number of commits we use "git log"
 
+git log consists of the commit id's of each and every commit performed on that file
+
+To change the version we use the command git checkout commitid
+
 to check the number of branches present we use the command "git branch"
 
 to create branch:-git branch branchname
+
 
 
 for configurations we use:-
