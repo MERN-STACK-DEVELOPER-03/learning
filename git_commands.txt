@@ -1,0 +1,31 @@
+To Push code into GitHub, We should use the following commands:-
+-------------------------------------------------------------------
+
+1)git init
+2)git add .
+3)git commint -m "message"
+4)git remote add origin (url)
+5)git push origin (branchname)
+
+to check status:-
+--------------------
+git status
+
+to check the number of commits we use "git log"
+
+to check the number of branches present we use the command "git branch"
+
+to create branch:-git branch branchname
+
+
+for configurations we use:-
+-----------------------------
+1)  git config --global user.name "Your github Name"
+
+2)  git config --global user.email "your@email.com"
+
+
+hiii
+
+
+
